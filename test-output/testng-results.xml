@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3690" started-at="2021-06-07T14:23:27 CDT" finished-at="2021-06-07T14:23:30 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3690" started-at="2021-06-07T14:23:27 CDT" finished-at="2021-06-07T14:23:30 CDT">
+      <class name="com.pluralsight.UnitTest">
+        <test-method status="PASS" signature="startUpBrowser()[pri:0, instance:com.pluralsight.UnitTest@285f09de]" name="startUpBrowser" is-config="true" duration-ms="12" started-at="2021-06-07T14:23:27 CDT" finished-at="2021-06-07T14:23:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpBrowser -->
+        <test-method status="PASS" signature="goToHomePage()[pri:0, instance:com.pluralsight.UnitTest@285f09de]" name="goToHomePage" is-config="true" duration-ms="1713" started-at="2021-06-07T14:23:27 CDT" finished-at="2021-06-07T14:23:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHomePage -->
+        <test-method status="PASS" signature="DemoEebsiteToPractice()[pri:0, instance:com.pluralsight.UnitTest@285f09de]" name="DemoEebsiteToPractice" duration-ms="1964" started-at="2021-06-07T14:23:29 CDT" finished-at="2021-06-07T14:23:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoEebsiteToPractice -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.pluralsight.UnitTest@285f09de]" name="cleanUp" is-config="true" duration-ms="30" started-at="2021-06-07T14:23:31 CDT" finished-at="2021-06-07T14:23:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.pluralsight.UnitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
